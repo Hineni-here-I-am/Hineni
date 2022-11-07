@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #1c1507;
+}
+
+#vicory-pose {
+    width: 60%;
+}
+
+div {
+    margin-top: 80px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 3.5px;
+}
